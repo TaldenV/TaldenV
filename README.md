@@ -11,8 +11,8 @@
     Right now, I'm currently in the process of making a full stack Next.js + Supabase application 
     for a startup as well as some freelance web development on the side while I'm looking for a full
     time software engineering position. 
-    On the side, I've recently become interested in learning more Rust, Go, and HTMX
-    as well as gaining a deeper appreciation for deploying Docker environments.
+    I've also recently become interested in learning more about Rust, Go, and HTMX
+    and gaining a deeper appreciation for deploying Docker environments.
   </p>
   <p className="mb-4 text-slate-400">
     Outside of studying and working on projects I enjoy listening to music, traveling, and playing 
