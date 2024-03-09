@@ -57,7 +57,7 @@
 
 </table>
 
-### Skills
+<h1>Skills</h1>
 
 <section data-markdown>
     <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
@@ -79,7 +79,7 @@
     </div>
 </section>
 
-### What I'm Learning
+<h1>What I'm Learning</h1>
 
 <section data-markdown>
     <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
