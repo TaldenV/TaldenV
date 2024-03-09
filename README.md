@@ -10,9 +10,8 @@
         getting a BS in Computer Science, working for a start-up, and as a Full Stack Software Engineer.
     </p>
     <p className="mb-4 text-slate-400">
-        Right now, I'm currently in the process of making a full stack Next.js + Supabase application 
-        for a startup as well as some freelance web development on the side while I'm looking for a full
-        time software engineering position. 
+        Right now, I'm currently doing freelance web development while looking for a 
+        full-time software engineering position. 
         I've also recently become interested in learning more about Rust, Go, and HTMX
         and gaining a deeper appreciation for deploying Docker environments.
     </p>
