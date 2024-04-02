@@ -9,13 +9,11 @@
     </p>
     <p className="mb-4 text-slate-400">
         Right now, I'm currently doing freelance web development while looking for a 
-        full-time software engineering position. 
-        I've also recently become interested in learning more about Rust, Go, and HTMX
-        and gaining a deeper appreciation for deploying Docker environments.
+        full-time software engineering position.
     </p>
     <p className="mb-4 text-slate-400">
-        Outside of studying and working on projects I enjoy listening to music, traveling, and playing 
-        Pokémon Go and Legend of Zelda Tears of the Kingdom.
+        Outside of studying and working on projects, I like to volunteer my time towards political 
+        movements advocating for human rights and climate justice.
     </p>
 </div>
 
@@ -76,6 +74,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="72" height="72" alt="mysql" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="72" height="72" alt="supabase" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="72" height="72" alt="postman" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="72" height="72" alt="postman" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="72" height="72" alt="postman" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="72" height="72" alt="neovim" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="72" height="72" alt="ubuntu" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="72" height="72" alt="amazonwebservices" />
@@ -94,5 +94,6 @@
     <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="72" height="72" alt="rust" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="72" height="72" alt="lua" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="72" height="72" alt="lua" />
     </div>
 </section>
