@@ -85,6 +85,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="72" height="72" alt="githubactions" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="72" height="72" alt="githubcodespaces" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="72" height="72" alt="digitalocean" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="72" height="72" alt="azure" />
     </div>
 </section>
 
