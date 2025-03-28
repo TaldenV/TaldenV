@@ -36,7 +36,7 @@
                     align="center" 
                     src="https://taldenv.com/favicon.ico" 
                     alt="TaldenV.com" 
-                    height="30" width="30" />
+                    height="40" width="40" />
             </a>
         </td>
         <td>
@@ -45,7 +45,7 @@
                     align="center" 
                     src="https://img.icons8.com/?size=256&id=P7UIlhbpWzZm&format=png" 
                     alt="TaldenV@gmail.com" 
-                    height="30" width="30" />
+                    height="40" width="40" />
             </a>
         </td>
     </tr>
