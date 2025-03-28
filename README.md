@@ -1,17 +1,17 @@
 <h1>Hi, my name is Talden (TJ) VanderLouw</h1>
 
 <div>
-    <p className="mb-4 text-slate-400">
+    <p>
         In 2014, I decided to try my hand at learning Java from an old college textbook. Not having a 
         computer to code, I would use paper and pencil to solve textbook problems by the pool in between 
         lifeguarding shifts. Fast-forward to today, and I've had the privilege to build software while 
         getting a BS in Computer Science, working for a start-up, and as a Full Stack Software Engineer.
     </p>
-    <p className="mb-4 text-slate-400">
+    <p>
         Right now, I'm currently doing freelance web development while looking for a 
         full-time software engineering position.
     </p>
-    <p className="mb-4 text-slate-400">
+    <p>
         Outside of studying and working on projects, I like to volunteer my time towards political 
         movements advocating for human rights and climate justice.
     </p>
@@ -26,7 +26,7 @@
             <a href="https://www.linkedin.com/in/TaldenV" target="_blank">
                 <img 
                     align="center" 
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+                    src="./assets/linkedin.svg"
                     alt="linkedin.com/in/TaldenV" 
                     height="40" width="40" />
             </a>
