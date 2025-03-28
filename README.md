@@ -8,12 +8,11 @@
         getting a BS in Computer Science, working for a start-up, and as a Full Stack Software Engineer.
     </p>
     <p>
-        Right now, I'm currently doing freelance web development while looking for a 
-        full-time software engineering position.
+        Right now, I'm working as an IT / Tech Specialist for Lowe Law Group.
     </p>
     <p>
-        Outside of studying and working on projects, I like to volunteer my time towards political 
-        movements advocating for human rights and climate justice.
+        Outside of work and building projects for friends and family, I like to volunteer my tech skills to a non-profit,
+        engage in hobbies like pottery, read Brandon Sanderson books, and so much more.
     </p>
 </div>
 
