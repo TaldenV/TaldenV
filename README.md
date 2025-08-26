@@ -8,7 +8,7 @@
         getting a BS in Computer Science, working for a start-up, and as a Full Stack Software Engineer.
     </p>
     <p>
-        Right now, I'm working as an IT / Tech Specialist for Lowe Law Group.
+        Right now, I'm working in an IT Support Specialist / Systems Design role for Lowe Law Group.
     </p>
     <p>
         Outside of work and building projects for friends and family, I like to volunteer my tech skills to a non-profit,
