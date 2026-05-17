@@ -2,12 +2,6 @@
 
 <div>
     <p>
-        In 2014, I decided to try my hand at learning Java from an old college textbook. Not having a 
-        computer to code, I would use paper and pencil to solve textbook problems by the pool in between 
-        lifeguarding shifts. Fast-forward to today, and I've had the privilege to build software while 
-        getting a BS in Computer Science, working for a start-up, and as a Full Stack Software Engineer.
-    </p>
-    <p>
         Right now, I'm working in an IT Support Specialist / Systems Design role for Lowe Law Group.
     </p>
     <p>
