@@ -5,8 +5,7 @@
         Right now, I'm working in an IT Support Specialist / Systems Design role for Lowe Law Group.
     </p>
     <p>
-        Outside of work and building projects for friends and family, I like to volunteer my tech skills to a non-profit,
-        engage in hobbies like pottery, read Brandon Sanderson books, and so much more!
+        Outside of work, I'm actively involved in full-stack development for a non-profit.
     </p>
 </div>
 
